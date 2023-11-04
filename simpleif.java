@@ -1,4 +1,4 @@
-// this is the program to check whether someone is young or old according to the age on 28-october-2023
+// this is the program to check whether someone is either young or old, according to the age on 28-october-2023
 public class simpleif { //main class
     public static void main(String[] args) { // main method
         int year = 19; // variable declaration
